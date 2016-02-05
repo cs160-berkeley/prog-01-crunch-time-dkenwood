@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="exerIconDesc">Exercise Icon</string>
+    <string name="dropDownDesc">Drop Down Icon</string>
+    <string name="edit_number">Enter number</string>
+    <string name="burns">burns</string>
+    <string name="calories">0</string>
+    <string name="final_calories"> calorie(s)</string>
+    <string name="equiv_text">That\'s equivalent to:</string>
+    <string name="equiv_reps_text">0 reps</string>
+    <string name="push_ups">of push-ups</string>
+    <string name="sit_ups">of sit-ups</string>
+    <string name="squats">of squats</string>
+    <string name="leg_lifts">of leg-lifts</string>
+    <string name="planks">of planks</string>
+    <string name="jumping_jacks">of jumping jacks</string>
+    <string name="pull_ups">of pull-ups</string>
+    <string name="cycling">of cycling</string>
+    <string name="walking">of walking</string>
+    <string name="jogging">of jogging</string>
+    <string name="swimming">of swimming</string>
+    <string name="stair_climbing">of stair climbing</string>
+
+</resources>

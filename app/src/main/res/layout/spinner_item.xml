@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+<ImageView
+    android:contentDescription="@string/exerIconDesc"
+    android:id="@+id/imageIcon"
+    android:layout_width="40dp"
+    android:layout_height="40dp"
+    android:layout_margin="15dp" />
+<CheckedTextView
+    android:id="@+id/exerciseItem"
+    android:singleLine="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="@style/SpinnerStyle"
+    android:paddingTop="22dp"
+    android:paddingLeft="10dp"
+    android:paddingBottom="15dp"
+    android:ellipsize="marquee" />
+</LinearLayout>
