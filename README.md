@@ -1,10 +1,15 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Crunch Time is an Android application that allows a user to select the type of exercise from a drop down menu and enter the number of reps/minutes of that exercise to calculate the amount of calories burned. The user can also see the equivalent amount of reps/minutes of all other (12 total) exercises that he or she can do in order to burn the same amount of calories. Changing the inputted number and/or changing the type of exercise will update all corresponding values accordingly. Numbers are calculated automatically after user finishes typing a number.
+
+The app is designed for very easy use and readability. The drop down menu has simple icons representing each exercise, respectively, and the amount of calories burned is bold and stands out as well. The user can easily scan down the list of equivalent workouts to compare them.
+
+
+App is viewable/usable in both portrait and landscape mode.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Danielle Kenwood ([kenwood@berkeley.edu](mailto:kenwood@berkeley.edu))
 
 ## Demo Video
 
@@ -16,7 +21,5 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+* Most icons from [FlatIcon](http://www.flaticon.com/)
+* 
