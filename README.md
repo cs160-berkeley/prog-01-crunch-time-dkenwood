@@ -17,9 +17,8 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/main.png" height="400" alt="Screenshot"/> <img src="screenshots/scrolled.png" height="400" alt="Screenshot"/> <img src="screenshots/swimming.png" height="400" alt="Screenshot"/> <img src="screenshots/menu.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
 * Most icons from [FlatIcon](http://www.flaticon.com/)
-* 
