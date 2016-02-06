@@ -4,7 +4,6 @@ Crunch Time is an Android application that allows a user to select the type of e
 
 The app is designed for very easy use and readability. The drop down menu has simple icons representing each exercise, respectively, and the amount of calories burned is bold and stands out as well. The user can easily scan down the list of equivalent workouts to compare them.
 
-
 App is viewable/usable in both portrait and landscape mode.
 
 ## Authors
@@ -13,7 +12,7 @@ Danielle Kenwood ([kenwood@berkeley.edu](mailto:kenwood@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [CS 160: Crunch Time] (https://youtu.be/wur6wyokBgU) video of app demonstration.
 
 ## Screenshots
 
