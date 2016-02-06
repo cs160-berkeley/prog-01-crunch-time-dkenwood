@@ -97,7 +97,7 @@
         <TableRow>
             <TextView
                 android:id="@+id/equiv_rm0"
-                style="@style/convFont" />
+                style="@style/convFont1" />
             <TextView
                 style="@style/convFont2"
                 android:text="@string/push_ups" />
@@ -108,7 +108,7 @@
         <TableRow>
             <TextView
                 android:id="@+id/equiv_rm1"
-                style="@style/convFont" />
+                style="@style/convFont1" />
             <TextView
                 style="@style/convFont2"
                 android:text="@string/sit_ups" />
@@ -119,7 +119,7 @@
         <TableRow>
             <TextView
                 android:id="@+id/equiv_rm2"
-                style="@style/convFont" />
+                style="@style/convFont1" />
             <TextView
                 style="@style/convFont2"
                 android:text="@string/squats" />
@@ -163,7 +163,7 @@
         <TableRow>
             <TextView
                 android:id="@+id/equiv_rm6"
-                style="@style/convFont" />
+                style="@style/convFont1" />
             <TextView
                 style="@style/convFont2"
                 android:text="@string/pull_ups" />
